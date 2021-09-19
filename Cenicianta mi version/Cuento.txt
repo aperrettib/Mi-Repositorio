@@ -1,2 +1,3 @@
 Esta es la primera práctica con el uso de GIT. Aqui veremos como es el primer cambio en el archivo Cuento
+Luiego de varios intentos parece que he podido publicar un commit
 
